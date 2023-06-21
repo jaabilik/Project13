@@ -1,0 +1,11 @@
+body {
+  font-family: 'Rock 3D', cursive;
+}
+
+h3 {
+    font-size: 25px !important;
+  }
+  
+  canvas {
+  	border:1px solid black;
+  }
